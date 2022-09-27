@@ -1,0 +1,31 @@
+
+.skill_container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill {
+    flex: 1;
+    min-width: 100px;
+    max-width: 100px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 4px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: -webkit-center;
+}
+
+.skill .icon img {
+    width: 55px;
+}
+
+.skill .spacer {
+    border-top: 2px solid rgb(92, 92, 92);
+    width: 80%;
+}
+
+.skill .text {
+    font-size: 20px;
+}
+
