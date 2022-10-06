@@ -36,3 +36,32 @@
     font-size: 20px;
 }
 
+.projectContainer {
+    border: 2px solid rgb(182, 182, 182);
+    border-radius: 10px;
+    padding: 8px;
+    background-color: aliceblue;
+    margin-bottom: 4px;
+}
+
+.projectContainer .container {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
+
+.projectContainer .title {
+    text-decoration: underline solid
+}
+
+.projectContainer .projImage {
+    align-self: center;
+}
+
+.projectContainer .spacer {
+    border-left: 2px solid rgb(182, 182, 182);
+    height: 180px;
+    margin: 10px;
+    align-self: center;
+}
+
