@@ -1,3 +1,10 @@
+.UnderConstruction {
+    width: 500px;
+    border: 2px solid rgb(211, 197, 0);
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px rgb(0 0 0);
+    margin-bottom: 20px;
+}
 
 .skill_container {
     display: flex;
