@@ -228,6 +228,7 @@
   @media (max-width: 575px) {
     .portfolio .card {
       margin-right: 0px;
+      width: auto;
     }
   }
   
